@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T18:44:14.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.234" etag="bCIFtPXyJlwnlqWVjAnF" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-16T18:44:35.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.234" etag="DGBFGNZECVxpbi6vfO_-" version="13.7.9" type="github">
   <diagram id="W1sH6OFh1roLbbkazUPK" name="Page-1">
     <mxGraphModel dx="1677" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -303,7 +303,7 @@
           <mxGeometry x="30" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qsJC-0brQPdeC4saic5G-58" value="Career" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="120" width="200" height="240" as="geometry" />
+          <mxGeometry x="150" y="120" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="qsJC-0brQPdeC4saic5G-59" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="qsJC-0brQPdeC4saic5G-58" vertex="1">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
@@ -332,40 +332,13 @@
         <mxCell id="qsJC-0brQPdeC4saic5G-67" value="career_name VARCHAR (50)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="qsJC-0brQPdeC4saic5G-65" vertex="1">
           <mxGeometry x="30" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qsJC-0brQPdeC4saic5G-68" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="qsJC-0brQPdeC4saic5G-58" vertex="1">
-          <mxGeometry y="120" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qsJC-0brQPdeC4saic5G-69" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="qsJC-0brQPdeC4saic5G-68" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qsJC-0brQPdeC4saic5G-70" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="qsJC-0brQPdeC4saic5G-68" vertex="1">
-          <mxGeometry x="30" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qsJC-0brQPdeC4saic5G-103" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="qsJC-0brQPdeC4saic5G-58" vertex="1">
-          <mxGeometry y="150" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qsJC-0brQPdeC4saic5G-104" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="qsJC-0brQPdeC4saic5G-103" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qsJC-0brQPdeC4saic5G-105" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="qsJC-0brQPdeC4saic5G-103" vertex="1">
-          <mxGeometry x="30" width="170" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="pxVktZgsF56bEJFusA_2-17" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="qsJC-0brQPdeC4saic5G-58" vertex="1">
-          <mxGeometry y="180" width="200" height="30" as="geometry" />
+          <mxGeometry y="120" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pxVktZgsF56bEJFusA_2-18" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="pxVktZgsF56bEJFusA_2-17" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pxVktZgsF56bEJFusA_2-19" value="information TEXT" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pxVktZgsF56bEJFusA_2-17" vertex="1">
-          <mxGeometry x="30" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pxVktZgsF56bEJFusA_2-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="qsJC-0brQPdeC4saic5G-58" vertex="1">
-          <mxGeometry y="210" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pxVktZgsF56bEJFusA_2-15" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="pxVktZgsF56bEJFusA_2-14" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pxVktZgsF56bEJFusA_2-16" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pxVktZgsF56bEJFusA_2-14" vertex="1">
           <mxGeometry x="30" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r0kyA6fK4zzbFS_wmZIa-12" value="degree_info" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
