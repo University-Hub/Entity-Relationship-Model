@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T18:59:02.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.287" etag="DxouWLRjRChyjtyQ9xQW" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-20T18:59:09.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.287" etag="1_9gkIFExT3gt4fWdZkm" version="13.8.0" type="github">
   <diagram id="W1sH6OFh1roLbbkazUPK" name="Page-1">
-    <mxGraphModel dx="2274" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1677" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,7 +168,7 @@
         <mxCell id="1g-ScU-cDc40kMfAlM5p-35" value="requirements TEXT" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="1g-ScU-cDc40kMfAlM5p-33" vertex="1">
           <mxGeometry x="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JNHCOuILpo2n0i_o9hOy-4" value="c_scholarships" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="JNHCOuILpo2n0i_o9hOy-4" value="C_scholarships" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="815" y="510" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JNHCOuILpo2n0i_o9hOy-5" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="JNHCOuILpo2n0i_o9hOy-4" vertex="1">
